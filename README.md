@@ -49,6 +49,29 @@ This project explores those effects using:
 - Global center of mass trajectory
 - 2D/3D animation of robot motion
 
+## 📊 Simulation Results
+
+### Joint Angles
+![Joint Angles](results/angles.png)
+
+### Joint Velocities
+![Joint Velocities](results/jointvel.png)
+
+### Joint Accelerations
+![Joint Accelerations](results/jointaccel.png)
+
+### Joint Torques
+![Joint Torques](results/jointtorque.png)
+
+### Base Reaction Torque
+![Base Reaction Torque](results/basetorque.png)
+
+### Center of Mass Trajectory
+![Center of Mass](results/com.png)
+
+### Kinetic Energy
+![Kinetic Energy](results/KE.png)
+
 ---
 
 ## 🛠️ Tools Used
